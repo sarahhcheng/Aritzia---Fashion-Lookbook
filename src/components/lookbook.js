@@ -3,18 +3,7 @@ import ClothingPiece from "./ClothingPiece";
 import KeyClothingPiece from "./KeyClothingPiece";
 
 const Lookbook = () => {
-  //   return  (
-  //     <div className="image-container">
-  //       <div class="unique-wrapper">
-  //          <div class="unique_element">
-  //           `Explore your outfits today with your first ${props.name} lookbook!`
-  //          </div>
-  //        </div>
-  //       {props.children}
-  //     </div>
-  //   )
 
-  // }
   return (
     <div className="image-container">
       <div class="unique-wrapper">
@@ -27,7 +16,7 @@ const Lookbook = () => {
           <ClothingPiece
             image={require("./Clothing/SALE_burgundy_sweater.png")}
             // name="Jeans"
-            // tags="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+             tags={["Business", "Classy", "Semi-formal", "Formal", "Oversized"]}
           />{" "}
         </div>
         <div className="clothing2">
