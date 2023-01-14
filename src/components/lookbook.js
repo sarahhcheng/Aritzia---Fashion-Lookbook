@@ -13,6 +13,7 @@ const Lookbook = () => {
         />{" "}
         <br />
       </div>
+      <br />
       <div className="position">
         <ClothingPiece
           image={require("./Aritzia_Logo.png")}
@@ -29,6 +30,7 @@ const Lookbook = () => {
         />{" "}
         <br />
       </div>
+      <br />
       <div className="position">
         <ClothingPiece
           image={require("./SALE_cropped_crewneck_low.png")}
