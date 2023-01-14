@@ -1,0 +1,9 @@
+
+
+var user = {
+    id: "0100",
+    tags: ["cozy", "soft", "winter"],
+    sale: false,
+    image_link: "www.link.com",
+    website_link: "www.link.com"
+}

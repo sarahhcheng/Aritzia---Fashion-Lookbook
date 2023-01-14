@@ -1,11 +1,172 @@
-{"shirts": {
+{"coats": {
     "01": {
-        "link": "File",
-        "imglink": "test",
-        "sale": true,
-        "tags": ["cool", "red", "fierce"]
-    }
-    
-  }
-}
+        "link": "https://www.aritzia.com/en/product/the-super-puff™/84568.html?dwvar_84568_color=25171 ",
+        "imglink": "https://drive.google.com/file/d/1jiRkKwGCqCyb6s8HBR3hohpfKDBDB_I6/view?usp=share_link",
+        "sale": false,
+        "tags": ["Clear sky", "Soft", "Winter", "Casual"]
+    },
+
+    "02": {
+      "link": "https://www.aritzia.com/en/product/the-slouch™-coat-new/104726.html?dwvar_104726_color=19170",
+      "imglink": "https://drive.google.com/file/d/11uuLU47qIQ1xw9W5cbbUiv_Kj-wB-zm1/view?usp=share_link",
+      "sale": false,
+      "tags": ["Business", "Classy", "Semi-formal", "Formal", "Oversized"]
+    },
   
+    "03": {
+      "link": "https://www.aritzia.com/en/product/the-super-puff™-shorty/84573.html?dwvar_84573_color=6335",
+      "imglink": "https://drive.google.com/file/d/1xnL0RG41eqz88dqGtxDohxPBAc0gWy1v/view?usp=share_link",
+      "sale": false,
+      "tags": ["Metallic", "Casual", "Classy", "Winter"]
+    },
+
+    "04": {
+      "link": "https://www.aritzia.com/en/product/the-constant%E2%84%A2-coat/104728.html?dwvar_104728_color=19170#fs ",
+      "imglink": "https://drive.google.com/file/d/1XAwt1R1xmsVzMTdrApZF4ijHrHHcA4D4/view?usp=share_link",
+      "sale": false,
+      "tags": ["Business", "Classy", "Semi-formal", "Formal", "Modest", "Minimalist"]
+    },
+
+    "05": {
+      "link": "https://www.aritzia.com/en/product/agency-blazer/100636.html?dwvar_100636_color=18891#fs",
+      "imglink": "https://drive.google.com/file/d/1XGFr1NdP2GDp32whhjuIqgfKI8gXrSge/view?usp=share_link",
+      "sale": false,
+      "tags": ["Blazer", "Business", "Casual", "Modest"]
+    },
+
+    "06": {
+      "link": "https://www.aritzia.com/en/product/the-pillow-puff/84786.html?dwvar_84786_color=1274#fs",
+      "imglink": "https://drive.google.com/file/d/13xZEgqU_HZt5ShTFka4OBwK6FKBuuNXP/view?usp=share_link",
+      "sale": true,
+      "tags": ["Edgy", "Vegan", "Streetwear", "Casual"]
+    }
+
+  },
+
+  "tank tops": {
+
+    "07": {
+      "link": "https://www.aritzia.com/en/product/sculpt-knit-criss-cross-cropped-tank/77075.html?dwvar_77075_color=17824",
+      "imglink": "https://drive.google.com/file/d/1Pw9nnn6uu5kRwe061bY_4pV7ZU6Hgxqw/view?usp=share_link",
+      "sale": true,
+      "tags": ["Casual", "Minimalist", "Summer", "Baddie", "Cute"]
+    },
+
+    "08": {
+      "link": "https://www.aritzia.com/en/product/contour-scoopneck-tank/82770.html?dwvar_82770_color=18289",
+      "imglink": "https://drive.google.com/file/d/1thOJ1BKmpjhHGuykplxvf74OpP5OPYUE/view?usp=share_link",
+      "sale": true,
+      "tags": ["Casual", "Cute", "Summer", "VSCO"]
+    },
+
+    "09": {
+      "link": "https://www.aritzia.com/en/product/tnabutter™-muscle-tank/100121.html?dwvar_100121_color=1275",
+      "imglink": "https://drive.google.com/file/d/1zZt1qaP_HRvw1KOYVKbWatrdKlwuoSTh/view?usp=share_link",
+      "sale": false,
+      "tags": ["Active", "Summer", "Soft", "Casual"]
+    },
+
+    "10": {
+      "link": "https://www.aritzia.com/en/product/sculpt-knit-mockneck-tank/100344.html?dwvar_100344_color=1275",
+      "imglink": "https://drive.google.com/file/d/16DlJ2wk6TOzwcXR-Iqq3OWwWd82VZLdm/view?usp=share_link",
+      "sale": false,
+      "tags": ["Casual", "Summer", "Active", "Cute"]
+  }
+},
+  "long sleeves": {
+
+    "11": {
+      "link": "https://www.aritzia.com/en/product/tnabutter™-bound-longsleeve/105521.html?dwvar_105521_color=1274",
+      "imglink": "https://drive.google.com/file/d/1_Z64VLPr6ZAIjREoaBghjvfHTLgYa2se/view?usp=share_link",
+      "sale": false,
+      "tags": ["Casual", "Minimalist", "Winter", "Cute"]
+    },
+
+    "12": {
+      "link": "https://www.aritzia.com/en/product/neptune-longsleeve/100427.html?dwvar_100427_color=27385",
+      "imglink": "https://www.aritzia.com/en/product/neptune-longsleeve/100427.html?dwvar_100427_color=27385",
+      "sale": true,
+      "tags": ["Clear Sky", "Cute", "Minimalist", "Simple", "Casual"]
+  },
+
+   "13": {
+      "link": "https://www.aritzia.com/en/product/ocala-shirt/80946.html?dwvar_80946_color=22302",
+      "imglink": "https://drive.google.com/file/d/1fCbgJFTvvgYd7KxavpIqnJFBkl3BgT_l/view?usp=share_link",
+      "sale": true,
+      "tags": ["Clear Sky", "Oversized", "Semi-formal", "Formal", "Casual", "Classy", "Cute", "Business"]
+  }
+
+}, "sweaters and crewnecks": {
+
+   "14": {
+      "link": "https://www.aritzia.com/en/product/guell-sweater/82571.html?dwvar_82571_color=15589",
+      "imglink": "https://drive.google.com/file/d/1dConYPlkUd4IJ8q_5CIC00-hiH3w8mPm/view?usp=share_link",
+      "sale": false,
+      "tags": ["Cozy", "Relaxed", "Modest", "Soft"]
+  },
+
+   "15": {
+      "link": "https://www.aritzia.com/en/product/new-cozy-fleece-mega-%C2%BC-zip-sweatshirt/104582.html?dwvar_104582_color=1275",
+      "imglink": "https://drive.google.com/file/d/15I-HSvLxhLdOV8_ebxnha91bQTmhhAda/view?usp=share_link",
+      "sale": false,
+      "tags": ["Active", "Winter", "Soft", "Minimalist"]
+   },
+
+   "16": {
+    "link": "https://www.aritzia.com/en/product/cozy-fleece-perfect-raglan-sweatshirt/90346.html?dwvar_90346_color=19534",
+    "imglink": "test",
+    "sale": true,
+    "tags": ["Minimalist", "Active", "Baddie", "Casual"]
+   }
+  },
+
+  "t-shirts": {
+
+
+   "17": {
+    "link": "https://www.aritzia.com/en/product/ribbed-waist-t-shirt/95025.html?dwvar_95025_color=4425",
+    "imglink": "test",
+    "sale": false,
+    "tags": ["Casual", "Cute", "Soft", "VSCO"]
+   },
+
+   "18": {
+    "link": "https://www.aritzia.com/en/product/laid-back-t-shirt/66393.html?dwvar_66393_color=13317",
+    "imglink": "test",
+    "sale": true,
+    "tags": ["Casual", "Active", "Minimalist"]
+   },
+
+   "18": {
+    "link": "",
+    "imglink": "test",
+    "sale": false,
+    "tags": ["Casual", "Summer", "Active", "Cute"]
+   },
+
+   "18": {
+    "link": "",
+    "imglink": "test",
+    "sale": false,
+    "tags": ["Casual", "Summer", "Active", "Cute"]
+   },
+
+   "18": {
+    "link": "",
+    "imglink": "test",
+    "sale": false,
+    "tags": ["Casual", "Summer", "Active", "Cute"]
+   },
+
+   "18": {
+    "link": "",
+    "imglink": "test",
+    "sale": false,
+    "tags": ["Casual", "Summer", "Active", "Cute"]
+   },
+    
+
+    
+    }
+  }
+    
