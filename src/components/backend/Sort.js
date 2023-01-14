@@ -1,7 +1,7 @@
 const { Configuration, OpenAIApi } = require("openai");
 
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: "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",
 });
 const openai = new OpenAIApi(configuration);
 
@@ -23,8 +23,6 @@ async function respond(keyword, array) {
         frequency_penalty: 0,
         presence_penalty: 0,
     });
-
-    // console.log("Response is " + response.data.choices[0].text);
 
     return response.data.choices[0].text;
 }

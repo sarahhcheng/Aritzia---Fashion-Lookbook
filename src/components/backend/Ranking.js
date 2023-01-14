@@ -12,14 +12,9 @@ fs.readFile('../../data/clothes.json', 'utf8', (err, jsonString) => {
     }
     try {
         const clothes = JSON.parse(jsonString);
-        // for (let m in clothes.coats) {
-        //     console.log(m);
-        //     console.log(clothes.coats.m.tags); 
-        // }
-
         tagged = clothes.coats.d.tags;
         console.log(tagged);
-        console.log(sort.respond("winter", tagged));
+        console.log("Avg value for tags that match 'clean': " + sort.respond("clean", tagged));
 } catch(err) {
         console.log('Error parsing JSON string:', err);
     }
