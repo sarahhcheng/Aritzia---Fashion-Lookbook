@@ -114,7 +114,7 @@
 
    "16": {
     "link": "https://www.aritzia.com/en/product/cozy-fleece-perfect-raglan-sweatshirt/90346.html?dwvar_90346_color=19534",
-    "imglink": "test",
+    "imglink": "https://drive.google.com/file/d/1PicWzYrB2zT1PMDgEyqnOHMEkj_66GQ6/view?usp=share_link",
     "sale": true,
     "tags": ["Minimalist", "Active", "Baddie", "Casual"]
    }
@@ -124,49 +124,189 @@
 
 
    "17": {
-    "link": "https://www.aritzia.com/en/product/ribbed-waist-t-shirt/95025.html?dwvar_95025_color=4425",
-    "imglink": "test",
+    "link": "https://www.aritzia.com/en/product/baby-waffle-cropped-t-shirt/100816.html?dwvar_100816_color=27371",
+    "imglink": "https://drive.google.com/file/d/1NiFg-4ASMWwB3FCYuHqLq4klF0w25Uvr/view?usp=share_link",
     "sale": false,
-    "tags": ["Casual", "Cute", "Soft", "VSCO"]
+    "tags": ["Casual", "Cute", "Soft", "VSCO", "Minimalist"]
    },
 
    "18": {
     "link": "https://www.aritzia.com/en/product/laid-back-t-shirt/66393.html?dwvar_66393_color=13317",
-    "imglink": "test",
+    "imglink": "https://drive.google.com/file/d/1Q4gLGufuAJ6YofuYO9rnF1aqLeQwm9eL/view?usp=share_link",
     "sale": true,
     "tags": ["Casual", "Active", "Minimalist"]
    },
 
-   "18": {
-    "link": "",
-    "imglink": "test",
+   "19": {
+    "link": "https://www.aritzia.com/en/product/waffle-notch-t-shirt/79700.html?dwvar_79700_color=6113",
+    "imglink": "https://drive.google.com/file/d/1TL72IouvrRJWKRf0Psm40sInPAujG_pC/view?usp=share_link",
+    "sale": true,
+    "tags": ["Casual", "Active", "Minimalist"]
+   }
+  },
+
+  "bottoms": {
+
+   "20": {
+    "link": "https://www.aritzia.com/en/product/new-cozy-fleece-boyfriend-basic-sweatpant/104716.html?dwvar_104716_color=1275",
+    "imglink": "https://drive.google.com/file/d/10523_ZxGIlBbTjXWk8fh7fzdNAL0FXLb/view?usp=share_link",
     "sale": false,
-    "tags": ["Casual", "Summer", "Active", "Cute"]
+    "tags": ["Cozy", "Casual", "Simple", "Comfy"]
    },
 
-   "18": {
-    "link": "",
-    "imglink": "test",
+   "21": {
+    "link": "https://www.aritzia.com/en/product/tie-front-pant/99074.html?dwvar_99074_color=28701",
+    "imglink": "https://drive.google.com/file/d/1b9X_DaQtRxUPKhdYLpLtsR80ygBXEzuv/view?usp=share_link",
     "sale": false,
-    "tags": ["Casual", "Summer", "Active", "Cute"]
+    "tags": ["Formal", "Business", "Modest"]
    },
 
-   "18": {
-    "link": "",
-    "imglink": "test",
-    "sale": false,
-    "tags": ["Casual", "Summer", "Active", "Cute"]
+   "22": {
+    "link": "https://www.aritzia.com/en/product/the-effortless-pant/96000.html?dwvar_96000_color=27623",
+    "imglink": "https://drive.google.com/file/d/1bVL1iNblvPwPsxb7pugou1PouFt2ZjNi/view?usp=share_link",
+    "sale": true,
+    "tags": ["Relaxed", "Minimalist", "Classy"]
    },
 
-   "18": {
-    "link": "",
-    "imglink": "test",
+   "23": {
+    "link": "https://www.aritzia.com/en/product/ascendant-pant/79489.html?dwvar_79489_color=27564",
+    "imglink": "https://drive.google.com/file/d/1VxdH-PZpKDfpommJRmlvXu72MXJWhwYZ/view?usp=share_link",
     "sale": false,
-    "tags": ["Casual", "Summer", "Active", "Cute"]
+    "tags": ["Relaxed", "Classy", "Semi-Formal"]
    },
+
+   "24": {
+    "link": "https://www.aritzia.com/en/product/maeve-cargo-pant/84085.html?dwvar_84085_color=27560",
+    "imglink": "https://drive.google.com/file/d/1yeqapzshdeLVZSmlCcILzvf2r147Nxz1/view?usp=share_link",
+    "sale": false,
+    "tags": ["Cute", "Edgy", "Casual"]
+   },
+
+   "25": {
+    "link": "https://www.aritzia.com/en/product/angie-skirt/95351.html?dwvar_95351_color=15104",
+    "imglink": "https://drive.google.com/file/d/1mcy5tvmoCoPwdZNquZ-5dPdIWGLZCIyM/view?usp=share_link",
+    "sale": false,
+    "tags": ["Summer", "Simple", "Vegan"]
+   },
+
+   "26": {
+    "link": "https://www.aritzia.com/en/product/patio-mini-skirt/79499.html?dwvar_79Cute499_color=24835",
+    "imglink": "https://drive.google.com/file/d/1oa10HW0Yg3MfmxX9KKiFWAD6a4sfZMG8/view?usp=share_link",
+    "sale": false,
+    "tags": ["Vegan", "Summer", "Baddie"]
+   },
+   
+   "27": {
+    "link": "https://www.aritzia.com/en/product/cozy-fleece-mega-cargo-sweatpant/91985.html?dwvar_91985_color=19451",
+    "imglink": "https://drive.google.com/file/d/1bMazCEO6D0oYmYJgCbgdz91AzYQc6MY-/view?usp=share_link",
+    "sale": false,
+    "tags": ["Cozy", "Active", "Minimalist"]
+   },
+
+   "28": {
+    "link": "https://www.aritzia.com/en/product/cozy-fleece-mega-sweatpant/91896.html?dwvar_91896_color=27418_1",
+    "imglink": "https://drive.google.com/file/d/1aTyhiDdD0aUYCZ6-Wju76pnWHxjC2r2w/view?usp=share_link",
+    "sale": true,
+    "tags": ["Relaxed", "Casual", "Oversized", "Modest"]
+   }
+  },
+
+  "Accessories": {
+
+    "29": {
+      "link": "https://www.aritzia.com/en/product/dad-cap/95576.html?dwvar_95576_color=1702#fs",
+      "imglink": "https://drive.google.com/file/d/1TLBVHXaaQEt6sN2twVQWVZgyMWS9KIry/view?usp=share_link",
+      "sale": false,
+      "tags": ["Casual", "Summer", "Cute"]
+     },
+
+     "30": {
+      "link": "https://www.aritzia.com/en/product/logo-bucket-hat/77815.html?dwvar_77815_color=14422#fs",
+      "imglink": "https://drive.google.com/file/d/18DgBg0iR5jDZqyKoyIQFrlDDG5568IE0/view?usp=share_link",
+      "sale": false,
+      "tags": ["Trendy", "Streetwear", "Cute"]
+     },
+
+     "31": {
+      "link": "https://www.aritzia.com/en/product/dad-cap/104033.html?dwvar_104033_color=28961#fs ",
+      "imglink": "https://drive.google.com/file/d/1KgSx1p6kMDNQO0Wo4c-OY7R78faIkdJz/view?usp=share_link",
+      "sale": true,
+      "tags": ["Summer", "Relaxed", "Simple"]
+     },
+
+     "32": {
+      "link": "https://www.aritzia.com/en/product/cuff-liteluxe-cashmere-beanie/103595.html?dwvar_103595_color=5550#fs",
+      "imglink": "https://drive.google.com/file/d/1SNNT1dTSo_oaOi47MzS-rDrpDTZ9Li1V/view?usp=share_link",
+      "sale": false,
+      "tags": ["Winter", "Cozy", "Casual"]
+     },
+
+     "33": {
+      "link": "https://www.aritzia.com/en/product/scrunch-crew-sock/96972.html?dwvar_96972_color=1275#fs",
+      "imglink": "https://drive.google.com/file/d/10dVmCanINR-H2MPpaYYSrnAgcaSU-BGD/view?usp=share_link",
+      "sale": false,
+      "tags": ["Minimalist", "Casual", "Comfy"]
+     },
+
+     "34": {
+      "link": "https://www.aritzia.com/en/product/cozy-crew-sock/104952.html?dwvar_104952_color=22419#fs ",
+      "imglink": "https://drive.google.com/file/d/1Jgjrt7y-jHg4LgTFSa89NwwZoLCcfWy0/view?usp=share_link",
+      "sale": false,
+      "tags": ["Cozy", "Cute", "Soft"]
+     },
+
+     "35": {
+      "link": "https://www.aritzia.com/en/product/goldie-bag/94284.html?dwvar_94284_color=1564",
+      "imglink": "https://drive.google.com/file/d/1oR-dDzk-hncF7yDd5GFSPuAVcBPJO2sH/view?usp=share_link",
+      "sale": false,
+      "tags": ["Casual", "Trendy", "VSCO", "Minimalist"]
+     }
+    }, 
     
+    "Activewear": {
 
-    
+
+     "36": {
+      "link": "https://www.aritzia.com/en/product/tnalife%E2%84%A2-cheeky-hi-rise-legging/85022.html?dwvar_85022_color=5870#fs ",
+      "imglink": "https://drive.google.com/file/d/1KtIwVbMQkuseM4EPTCo84_nYcIZq6a0j/view?usp=share_link",
+      "sale": false,
+      "tags": ["Active", "Trendy", "Cute", "Minimalist"]
+     },
+
+     "37": {
+      "link": "https://www.aritzia.com/en/product/tnamove%E2%84%A2-tennis-mini-pleated-skirt/97731.html?dwvar_97731_color=1275#fs",
+      "imglink": "https://drive.google.com/file/d/1ZoGA5WkIH-HLgGc_j1HS9ekxmrXYsTNu/view?usp=share_link",
+      "sale": false,
+      "tags": ["Active", "Trendy", "Cute", "Minimalist"]
+     },
+
+     "38": {
+      "link": "https://www.aritzia.com/en/product/the-pillow-puff/80012.html?dwvar_80012_color=19629#fs",
+      "imglink": "https://drive.google.com/file/d/13xZEgqU_HZt5ShTFka4OBwK6FKBuuNXP/view?usp=share_link",
+      "sale": false,
+      "tags": ["Trendy", "Active", "Casual"]
+     },
+
+     "39": {
+      "link": "https://www.aritzia.com/en/product/tnalife%E2%84%A2-cheeky-flare-hi-rise-legging/102656.html?dwvar_102656_color=24803#fs",
+      "imglink": "https://drive.google.com/file/d/1Ko3nCA4KLaIjVEGNrYg-lmuKqho9HD08/view?usp=share_link",
+      "sale": true,
+      "tags": ["Trendy", "Baddie", "Clean"]
+     },
+
+     "40": {
+      "link": "https://www.aritzia.com/en/product/tnaslick%E2%84%A2-cycle-sports-bra/99399.html?dwvar_99399_color=5870#fs",
+      "imglink": "https://drive.google.com/file/d/1WZ7lYqYcNk_GZOsZY9h2iDSXBzTf0gyd/view?usp=share_link",
+      "sale": true,
+      "tags": ["Active", "Trendy", "Comfy"]
+     }
     }
   }
+
+
+     
+
+
+
+
     
